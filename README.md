@@ -65,7 +65,7 @@ A organização das pastas se encontra no seguinte formato:
 ### Interface com resultados
 ![Interface com resultados](https://raw.githubusercontent.com/ottoyshiro/8-puzzle-game/main/assets/image3.png)
 
-Obs.: Sempre que um jogo for concluído clique em reset para começar um novo jogo
+Obs.: Sempre que um jogo for concluído clique em **Restart** para começar um novo jogo
 
 ## Referências
 
