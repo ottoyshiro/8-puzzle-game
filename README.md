@@ -16,7 +16,7 @@ Este projeto é uma boa maneira de vizualizar a performance dos algoritmos de bu
 
 
 ### 1. Instalação das Dependências
-Certifique-se de ter o **Python 3.3+** instalado. Clone o repositório e instale as bibliotecas listadas no `requirements.txt`:
+Certifique-se de ter o **Python 3.3+** instalado. Clone o repositório e instale o pygame:
 
 ```bash
 # Clone o repositório
@@ -31,12 +31,11 @@ python -m venv nome_do_ambiente # (venv costuma ser o padrão)
 # Ative o seu ambiente
 nome_do_ambiente\Scripts\activate # (Windows)
 source nome_do_ambiente/bin/activate # (Linux/MacOS)
-
-# Após executar o comando, o nome do seu ambiente virtual (por exemplo, (nome_do_ambiente))
-# aparecerá no início da linha do terminal, indicando que ele está ativo
-
+````
+Após executar o comando, o nome do seu ambiente virtual, por exemplo, (nome_do_ambiente) aparecerá no início da linha do terminal, indicando que ele está ativo.
+```bash
 # Instale as dependências dentro do ambiente virtual
-pip install -r requirements.txt
+pip install pygame
 ````
 
 ### 2. Como Executar
@@ -59,10 +58,12 @@ A organização das pastas se encontra no seguinte formato:
   * `assets/`: Imagens de resultados.
 
 ## Resultados e Demonstração
-
-![Interface do jogo](https://raw.githubusercontent.com/ottoyshiro/8-puzzle-game/main/assets/arquivo.png)
-
-![Interface com imagem](https://raw.githubusercontent.com/ottoyshiro/8-puzzle-game/main/assets/arquivo.png)
+### Interface do jogo
+![Interface do jogo](https://raw.githubusercontent.com/ottoyshiro/8-puzzle-game/main/assets/image1.png)
+### Interface com imagem
+![Interface com imagem](https://raw.githubusercontent.com/ottoyshiro/8-puzzle-game/main/assets/image2.png)
+### Interface com resultados
+![Interface com resultados](https://raw.githubusercontent.com/ottoyshiro/8-puzzle-game/main/assets/image3.png)
 
 Obs.: Sempre que um jogo for concluído clique em reset para começar um novo jogo
 
