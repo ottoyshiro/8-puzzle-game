@@ -6,7 +6,7 @@
 **Turma:** T04
 
 ## Integrantes do Grupo
-* Otto Yshiro Osawa de Souza
+* Otto Yshiro Osawa de Souza (20240005887)
 
 ## Descrição do Projeto
 O projeto consiste em recriar o jogo 8-Puzzle e a partir disso, implementar um agente capaz de resolver de forma automatizada o jogo, mostrando uma descrição sobre a quantidade de movimentos e o tempo de execução de cada algoritmo de busca.
@@ -69,5 +69,5 @@ Obs.: Sempre que um jogo for concluído clique em **Restart** para começar um n
 
 ## Referências
 
-  * https://youtube.com/playlist?list=PLJ8PYFcmwFOxtJS4EZTGEPxMEo4YdbxdQ&si=2lpWflRYFfPqyuxK
-  * https://www.geeksforgeeks.org/dsa/8-puzzle-problem-using-branch-and-bound
+  * [Tutorial Pygame](https://youtube.com/playlist?list=PLJ8PYFcmwFOxtJS4EZTGEPxMEo4YdbxdQ&si=2lpWflRYFfPqyuxK)
+  * [Algoritmos](https://www.geeksforgeeks.org/dsa/8-puzzle-problem-using-branch-and-bound)
